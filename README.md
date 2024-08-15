@@ -1,7 +1,3 @@
-Certainly! Here's a README for your GitHub repository:
-
----
-
 # FIFA World Cup Dashboard
 
 ## Overview
@@ -10,7 +6,7 @@ This project leverages the FIFA World Cup dataset to create an insightful Power 
 
 ## Snapshot of Dashboard
 
-![Dashboard_Snapshot](your_image_link_here)
+![Dashboard_Snapshot](https://github.com/kscheran93/Power-BI-FIFA-World-cup-dashboard/blob/main/fifia.png)
 
 ### Dashboard Link: [https://app.powerbi.com/groups/me/reports/a07588b5-7a2e-4b4a-a438-f7f91b9490ad/e2191b154718a71d6834?experience=power-bi)
 
@@ -75,7 +71,3 @@ The FIFA World Cup dashboard reveals several key insights into the tournament's 
 ## Conclusion
 
 This FIFA World Cup Power BI dashboard serves as a powerful tool for analyzing the tournament's history from 1930 to 2014. It allows users to explore key metrics and trends, making it easier to gain insights into the evolution and impact of the FIFA World Cup over the decades.
-
----
-
-You can customize this README further by adding your own images, additional links, or any other specific details relevant to your project.
